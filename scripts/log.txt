@@ -1,0 +1,18 @@
+Array
+(
+    [goods_id] => 3
+    [num] => df932sd
+    [name] => Мороженое
+    [cost] => 100
+    [value] => 145
+)
+
+Array
+(
+    [goods_id] => 5
+    [num] => d932ds
+    [name] => Чипсы
+    [cost] => 70
+    [value] => 320
+)
+
